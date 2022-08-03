@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+    <title type="text">Hugo Theme MemE</title>
+    <subtitle type="html">MemE is a powerful and highly customizable GoHugo theme for personal blogs.</subtitle>
+    <updated>2022-08-03T15:31:18-04:00</updated>
+    <id>https://cruznicholas-fs.github.io/1.6_hugo/</id>
+    <link rel="alternate" type="text/html" href="https://cruznicholas-fs.github.io/1.6_hugo/" />
+    <link rel="self" type="application/atom&#43;xml" href="https://cruznicholas-fs.github.io/1.6_hugo/atom.xml" />
+    <author>
+            <name>reuixiy</name>
+            <uri>https://cruznicholas-fs.github.io/</uri>
+            
+                <email>reuixiy@gmail.com</email>
+            </author>
+    <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights>
+    <generator uri="https://gohugo.io/" version="0.96.0">Hugo</generator>
+        <entry>
+            <title type="text">First Post</title>
+            <link rel="alternate" type="text/html" href="https://cruznicholas-fs.github.io/1.6_hugo/posts/first-post/" />
+            <id>https://cruznicholas-fs.github.io/1.6_hugo/posts/first-post/</id>
+            <updated>2022-08-03T14:10:36-04:00</updated>
+            <published>2022-08-02T13:05:24-04:00</published>
+            <author>
+                    <name>reuixiy</name>
+                    <uri>https://io-oi.me/</uri>
+                    <email>reuixiy@gmail.com</email>
+                    </author>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">This is my first post in the HUGO static site generator. I actually heard about this before from a friend in a developer community I am in. I am using the &amp;ldquo;meme&amp;rdquo; theme.</summary>
+            
+                <content type="html">&lt;p&gt;This is my first post in the HUGO static site generator. I actually heard about this before from a friend in a developer community I am in. I am using the &amp;ldquo;meme&amp;rdquo; theme.&lt;/p&gt;
+</content>
+            
+            
+            
+            
+            
+                
+                    
+                
+                    
+                
+            
+        </entry>
+    
+        <entry>
+            <title type="text">Second Post</title>
+            <link rel="alternate" type="text/html" href="https://cruznicholas-fs.github.io/1.6_hugo/posts/second-post/" />
+            <id>https://cruznicholas-fs.github.io/1.6_hugo/posts/second-post/</id>
+            <updated>2022-08-03T14:11:44-04:00</updated>
+            <published>2022-08-02T13:05:24-04:00</published>
+            <author>
+                    <name>reuixiy</name>
+                    <uri>https://io-oi.me/</uri>
+                    <email>reuixiy@gmail.com</email>
+                    </author>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">This is my second post in the HUGO static site generator. I actually heard about this before from a friend in a developer community I am in. I am using the &amp;ldquo;meme&amp;rdquo; theme.</summary>
+            
+                <content type="html">&lt;p&gt;This is my second post in the HUGO static site generator. I actually heard about this before from a friend in a developer community I am in. I am using the &amp;ldquo;meme&amp;rdquo; theme.&lt;/p&gt;
+</content>
+            
+            
+            
+            
+            
+                
+                    
+                
+                    
+                
+            
+        </entry>
+    
+</feed>
